@@ -6,6 +6,7 @@ import { Header } from './components/Header';
 import SecondComponent from './components/SecondComponent';
 import './css/styles.css';
 
+// Control the components calls
 export const AppRouter: React.StatelessComponent<{}> = () => {
     return (
 
